@@ -23,13 +23,14 @@ repository               : "caitlinturner/caitlinturner.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Caitlin Turner"
+  pronouns         : "she/her"  
+  bio              : "PhD Candidate"
+  location         : "United Sttes"
+  employer         : "Louisiana State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "cturn65@lsu.edu"
+  email            : "caitlin.r.r.turner@gmail.com"
 
   # Academic websites
   academia         : # URL
@@ -132,7 +133,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
